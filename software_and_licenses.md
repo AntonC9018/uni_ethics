@@ -74,7 +74,7 @@ Aceasta este esența dreptului de autor.
  
  k) transformarea, adaptarea, aranjamentul sau alte modificări ale operei (...)
 
-[Însă o sursă][proprietarybydefault].
+[Încă o sursă][proprietarybydefault].
 
 <!-- In Moldova, this does not extend to a person writing code on their job.
 In a case where a person has been hired to write code, the code they write belong to their employer, unless stated otherwise in the contract.
@@ -97,7 +97,7 @@ Autorul totuși va avea unele drepturi morale pentru opera lor, dar din punct de
 <!-- But people may also set additional legal restrictions on the usage of their code, by, for example, allowing just to view the code, but not reuse it in one's own project, or resell software based on it.
 These rules are decided by the **license**, associated with a given software product. -->
 
-Persoanele pot, de asemenea, să stabilească restricțiilelegale privind utilizarea codului lor, de exemplu, permițând doar vizualizarea codului, dar nu și reutilizarea acestuia în propriul proiect sau revânzarea de software bazat pe acesta.
+Persoanele pot, de asemenea, să stabilească restricțiile legale privind utilizarea codului lor, de exemplu, permițând doar vizualizarea codului, dar nu și reutilizarea acestuia în propriul proiect sau revânzarea de software bazat pe acesta.
 Chiar dacă persoană nu a stabilit nici o regulă referitor la utilizarea codului său, produsul software al ei oricum se consideră ca o operă, deci alte persoane nu au drepturi la folosirea lui, cum este indicat în următoare clauză din legea:
 
 > Autorul beneficiază de protecţia dreptului de autor asupra operei sale prin însuşi faptul de creare a ei. Pentru apariţia şi exercitarea dreptului de autor nu este necesară înregistrarea operei, nici alt act de notificare sau alte formalităţi. (art. 5, alin. 2).
