@@ -41,7 +41,7 @@ adăugarea exemplelor și faptelor pentru a îmbunătăți înțelegerea;
 
 ## Etica de tip Kantian
 
-*Morală universală* — morala independentă de contexte particulare, de inclinaţii și dorințe individuale.
+*Morală universală* — morala independentă de contexte particulare, de inclinații și dorințe individuale.
 
 *Voința liberă* — abilitatea de a acționa autonom.
 
@@ -77,7 +77,7 @@ Aducerea plăcerii (utilitate) mărește valoarea, aducerea suferinței o diminu
 
 *Plăcere* — stare afectivă fundamentală determinată de satisfacerea unor tendințe, a unor cerințe vitale.
 
-*Utilitate* — valoarea abstractă atribuită unei acțiune ce ține de câtă plăcere (utilitatea pozitivă) sau suferință (utilitatea negativă) a adus această acțiune. După înțelegerea mea, se are în vedere proiecția acțiunii în viitor, adică nu doar efectul imediat al unei acțiuni particulare, dar și efectul tuturor consecințelor acestei acțiuni, sumate între sine.
+*Utilitate* — valoarea abstractă atribuită unei acțiune ce ține de câtă plăcere (utilitatea pozitivă) sau suferință (utilitatea negativă) a adus această acțiune. După înțelegerea autorului, se are în vedere proiecția acțiunii în viitor, adică nu doar efectul imediat al unei acțiuni particulare, dar și efectul tuturor consecințelor acestei acțiuni, sumate între sine.
 
 Metricile utilității nu sunt necesar doar plăcerea și doar suferința, pot fi și, de exemplu, ajutorul în dezvoltarea unei persoane, tratarea unei persoane cu medicamente, etc.
 În alte cuvinte, se evaluează moralitatea consecințelor.  
@@ -101,7 +101,7 @@ Există două moduri de gândire, sau de selectare a axiomelor, în etică:
 - Pentru **consecințialiști** comiterea unui act imoral nu necesar semnifică că fapta a fost imorală în sine, deoarece se consideră consecințele faptei, și chiar un act imoral în sine, poate aduce utilitate agregată positivă.
  -->
 
-<!-- act moral corect, dreptate, acţiune dreaptă, imparţialitate, subiect al moralei, libertate -->
+<!-- act moral corect, dreptate, acțiune dreaptă, imparțialitate, subiect al moralei, libertate -->
 
 
 ## Contractualismul
@@ -127,7 +127,7 @@ partea cu puterea contractuală neneglijabilă.
 *Considerație egală* — ideea că toate persoanele sunt scopuri în sine (entități esențiale), și prin urmare merită să fie tratați egal în ceea ce ține de stabilirea acordului comun.
 
 
-<!-- tratamente drepte, inegalităţi permise, principii ale dreptăţii -->
+<!-- tratamente drepte, inegalități permise, principii ale dreptății -->
 
 
 ## Concepte centrale în etica profesională
@@ -179,9 +179,76 @@ Exemple: dreptul de a spune adevărul, dreptul de a trăi într-un mediu curat, 
 
 > 2\. Un drept asigură exercitarea autonomiei unei persoane în urmărirea scopurilor şi intereselor proprii.
 
-După înțelegerea mea, această regulă semnifică că drepturile sunt acel lucru, după care o persoană trebuie să se orienteze, de care trebuie să-și dea seamă, când încearcă să atingă un anumit scop.
+După înțelegerea autorului, această regulă semnifică că drepturile sunt acel lucru, după care o persoană trebuie să se orienteze, de care trebuie să-și dea seamă, când încearcă să atingă un anumit scop.
 
 
-> 3\. Un drept justifică acţiunea persoanei care îl exercită şi faptul că acesta solicită sprijin în exercitarea lui.
+> 3\. Un drept justifică acțiunea persoanei care îl exercită şi faptul că acesta solicită sprijin în exercitarea lui.
 
-Aceasta după înțelegerea mea este concluzia dedusă din punctele 1 și 2.
+Aceasta după înțelegerea autorului este concluzia dedusă din punctele 1 și 2.
+
+
+## Codul de etică și deontologie profesională.
+
+<!-- coduri de etică profesională, cod de deontologie profesională, principii
+deontologice, responsabilități profesionale specifice, cele ZECE “PORUNCI” ale eticii
+computerelor -->
+
+Deontologia profesională este formalizată în Coduri speciale, numite coduri deontologice sau coduri etice.
+Prin *formalizare etică* se înțelege formularea explicită, în scris, a idealurilor, valorilor, principiilor şi normelor unei instituții, organizații, asociații.
+Înseamnă elaborarea codurilor etice.
+
+**Codul de etică şi deontologie profesională promovează:**
+
+- Competenţa profesională;
+- Integritatea morală;
+- Cultura organizaţională;
+- Formele respectului (faţă de muncă şi valori, faţă de persoane şi comunitate);
+- Creativitatea, iniţiativa şi personalitatea;
+- Armonizarea interesului individual cu cel colectiv;
+- Deschiderea către viaţa comunităţii;
+- Alinierea la tendinţele şi practicile mondiale.
+
+Cele *ZECE "PORUNCI"* ale eticii computerelor sunt următoarele:
+
+1. Nu vei utiliza un calculator pentru ca să faci rău altor oameni.
+2. Nu vei interfera cu munca pe computer a altor oameni.
+3. Nu vei iscodi în fișierele de pe calculatorul altor persoane.
+4. Nu vei folosi calculatorul ca să furi.
+5. Nu vei folosi calculatorul pentru a depune mărturie falsă.
+6. Nu vei copia sau folosi software patentat pentru care nu ai plătit.
+7. Nu vei utiliza resursele computerului altor persoane fără autorizaţie sau compensaţie adecvată.
+8. Nu îţi vei însuși produsul intelectual al altor persoane.
+9. Vei reflecta asupra consecinţelor sociale ale programului pe care îl scrii sau ale sistemului pe care îl proiectezi.
+10. Vei folosi întotdeauna calculatorul în moduri care garantează consideraţia și respectul pentru ceilalţi oameni.
+
+
+## Etica în soluţionarea conflictelor
+
+<!-- Conflict, conflictul de interese, conflictul individual interior, conflictul dintre indivizi ,
+conflictul dintre indivizi şi grupuri, conflictul inter-grupuri, conflictul între organizaţii,
+conflictele afective, conflictele de manipulare, criza, tensiunea, neînţelegerea, incidentul,
+disconfortul, conflicte distructive, conflictul benefic, abandonul, reprimarea, acomodarea,
+aplanarea, forţarea, compromisul, confruntarea, medierea, negocierea -->
+
+
+*Conflictul* este o neînţelegere între două sau mai multe persoane. Reprezintă rezultatul manifestării diferenţelor.
+
+*Conflict individual interior* — apare atunci când individului nu îi este clară direcţia în care trebuie să se îndrepte, primeşte sarcini contradictorii sau atunci când ceea ce trebuie să facă contravine posibilităţilor, intereselor sau valorilor sale.
+În general o astfel de stare conflictuală interioară potenţează cu timpul toate celelalte tipuri de conflict.
+
+*Conflictul dintre indivizi* — conflictele între persoanele care aparţin aceluiaşi grup, la grupuri diferite sau chiar organizaţii diferite.
+
+*Conflictul dintre indivizi şi grupuri* – poate fi un efect al presiunii pe care grupul îl exercită asupra individului.
+Uneori individul este pus în situaţia să suporte consecinţele unor acţiuni ale grupului de care el se delimitează.
+De multe ori, la baza acestor conflicte stau relaţii interpersonale tensionate sau conflicte individuale interioare puternice.
+
+*Conflictul inter-grupuri* – este principalul tip de conflict inclus în categoria conflictelor organizaţionale. "Stingerea" acestui tip de conflict intră deja în competenţa managerilor superiori.
+
+*Conflictul între organizaţii* – în mod frecvent acest tip de conflict se manifestă sub forma competiţiei pentru lansarea unui produs, serviciu etc. Un asemenea tip de conflict se poate naşte în urma competiţiei pentru surse de finanţare.
+
+*Conflictele afective* – sunt conflicte generate de stări emoţionale şi apar în cadrul relaţiilor interindividuale.
+
+*Conflictele de manipulare* (pseudoconflictele) sunt în general efectul comportamentelor duplicitare şi lipsei de comunicare şi transparenţă.
+Ele apar în general între grupuri şi sunt rezultatul practicilor politicianiste.
+Spre exemplu, un pseudoconflict poate fi “lansat” atunci când două grupuri între care există interese comune ar aduce prejudicii grupului dominant în relaţia sa cu alte grupuri, dacă ar continua coabitarea.
+Pentru reuşita acestei strategii, de regulă conflictele sunt mediatizate puternic.
