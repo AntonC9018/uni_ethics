@@ -308,8 +308,8 @@ Critica constructivă poate face parte din implementarea strategiilor de îmbun�
 De asemenea, poate crea o atmosferă pozitivă în care personalul se simte confortabil să pună întrebări, să solicite asistență și să își ofere propriul feedback și propriile idei.
 În cele din urmă, critica constructivă poate oferi modalități prin care angajații să înțeleagă mai bine așteptările angajatorului, și cum să le îndeplinească.
 
-Autorului îi place de a dat sugestii la codul programului, el este gata de a analiza implementarea unei sarcini și de a da sfaturi de soluționare din înțelegerea sau din experiența proprie.
-Autorul este gata să indice care sunt problemele codului, prin ele se manifestă, și cum pot fi mitigate.
+Autorului îi place a da sugestii la codul programului, el este gata de a analiza implementarea unei sarcini și de a da sfaturi de soluționare din înțelegerea sau din experiența proprie.
+Autorul este gata să indice care sunt problemele codului, prin ce ele se manifestă, și cum pot fi mitigate.
 
 
 <!-- ## Elaborarea CV personal
