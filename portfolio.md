@@ -177,12 +177,12 @@ Așa drepturi rămân morale și nu figurează în lege.
 Exemple: dreptul de a spune adevărul, dreptul de a trăi într-un mediu curat, dreptul de a duce o viață demnă.
 
 
-> 2\. Un drept asigură exercitarea autonomiei unei persoane în urmărirea scopurilor şi intereselor proprii.
+> 2\. Un drept asigură exercitarea autonomiei unei persoane în urmărirea scopurilor și intereselor proprii.
 
 După înțelegerea autorului, această regulă semnifică că drepturile sunt acel lucru, după care o persoană trebuie să se orienteze, de care trebuie să-și dea seamă, când încearcă să atingă un anumit scop.
 
 
-> 3\. Un drept justifică acțiunea persoanei care îl exercită şi faptul că acesta solicită sprijin în exercitarea lui.
+> 3\. Un drept justifică acțiunea persoanei care îl exercită și faptul că acesta solicită sprijin în exercitarea lui.
 
 Aceasta după înțelegerea autorului este concluzia dedusă din punctele 1 și 2.
 
@@ -194,19 +194,19 @@ deontologice, responsabilități profesionale specifice, cele ZECE “PORUNCI”
 computerelor -->
 
 Deontologia profesională este formalizată în Coduri speciale, numite coduri deontologice sau coduri etice.
-Prin *formalizare etică* se înțelege formularea explicită, în scris, a idealurilor, valorilor, principiilor şi normelor unei instituții, organizații, asociații.
+Prin *formalizare etică* se înțelege formularea explicită, în scris, a idealurilor, valorilor, principiilor și normelor unei instituții, organizații, asociații.
 Înseamnă elaborarea codurilor etice.
 
-**Codul de etică şi deontologie profesională promovează:**
+**Codul de etică și deontologie profesională promovează:**
 
-- Competenţa profesională;
+- Competența profesională;
 - Integritatea morală;
-- Cultura organizaţională;
-- Formele respectului (faţă de muncă şi valori, faţă de persoane şi comunitate);
-- Creativitatea, iniţiativa şi personalitatea;
+- Cultura organizațională;
+- Formele respectului (față de muncă și valori, față de persoane și comunitate);
+- Creativitatea, inițiativa și personalitatea;
 - Armonizarea interesului individual cu cel colectiv;
-- Deschiderea către viaţa comunităţii;
-- Alinierea la tendinţele şi practicile mondiale.
+- Deschiderea către viața comunității;
+- Alinierea la tendințele și practicile mondiale.
 
 Cele *ZECE "PORUNCI"* ale eticii computerelor sunt următoarele:
 
@@ -216,39 +216,105 @@ Cele *ZECE "PORUNCI"* ale eticii computerelor sunt următoarele:
 4. Nu vei folosi calculatorul ca să furi.
 5. Nu vei folosi calculatorul pentru a depune mărturie falsă.
 6. Nu vei copia sau folosi software patentat pentru care nu ai plătit.
-7. Nu vei utiliza resursele computerului altor persoane fără autorizaţie sau compensaţie adecvată.
-8. Nu îţi vei însuși produsul intelectual al altor persoane.
-9. Vei reflecta asupra consecinţelor sociale ale programului pe care îl scrii sau ale sistemului pe care îl proiectezi.
-10. Vei folosi întotdeauna calculatorul în moduri care garantează consideraţia și respectul pentru ceilalţi oameni.
+7. Nu vei utiliza resursele computerului altor persoane fără autorizație sau compensație adecvată.
+8. Nu îți vei însuși produsul intelectual al altor persoane.
+9. Vei reflecta asupra consecințelor sociale ale programului pe care îl scrii sau ale sistemului pe care îl proiectezi.
+10. Vei folosi întotdeauna calculatorul în moduri care garantează considerația și respectul pentru ceilalți oameni.
 
 
-## Etica în soluţionarea conflictelor
+## Etica în soluționarea conflictelor
 
 <!-- Conflict, conflictul de interese, conflictul individual interior, conflictul dintre indivizi ,
-conflictul dintre indivizi şi grupuri, conflictul inter-grupuri, conflictul între organizaţii,
-conflictele afective, conflictele de manipulare, criza, tensiunea, neînţelegerea, incidentul,
+conflictul dintre indivizi și grupuri, conflictul inter-grupuri, conflictul între organizații,
+conflictele afective, conflictele de manipulare, criza, tensiunea, neînțelegerea, incidentul,
 disconfortul, conflicte distructive, conflictul benefic, abandonul, reprimarea, acomodarea,
-aplanarea, forţarea, compromisul, confruntarea, medierea, negocierea -->
+aplanarea, forțarea, compromisul, confruntarea, medierea, negocierea -->
 
 
-*Conflictul* este o neînţelegere între două sau mai multe persoane. Reprezintă rezultatul manifestării diferenţelor.
+*Conflictul* este o neînțelegere între două sau mai multe persoane. Reprezintă rezultatul manifestării diferențelor.
 
-*Conflict individual interior* — apare atunci când individului nu îi este clară direcţia în care trebuie să se îndrepte, primeşte sarcini contradictorii sau atunci când ceea ce trebuie să facă contravine posibilităţilor, intereselor sau valorilor sale.
-În general o astfel de stare conflictuală interioară potenţează cu timpul toate celelalte tipuri de conflict.
+*Conflict individual interior* — apare atunci când individului nu îi este clară direcția în care trebuie să se îndrepte, primește sarcini contradictorii sau atunci când ceea ce trebuie să facă contravine posibilităților, intereselor sau valorilor sale.
+În general o astfel de stare conflictuală interioară potențează cu timpul toate celelalte tipuri de conflict.
 
-*Conflictul dintre indivizi* — conflictele între persoanele care aparţin aceluiaşi grup, la grupuri diferite sau chiar organizaţii diferite.
+*Conflictul dintre indivizi* — conflictele între persoanele care aparțin aceluiași grup, la grupuri diferite sau chiar organizații diferite.
 
-*Conflictul dintre indivizi şi grupuri* – poate fi un efect al presiunii pe care grupul îl exercită asupra individului.
-Uneori individul este pus în situaţia să suporte consecinţele unor acţiuni ale grupului de care el se delimitează.
-De multe ori, la baza acestor conflicte stau relaţii interpersonale tensionate sau conflicte individuale interioare puternice.
+*Conflictul dintre indivizi și grupuri* – poate fi un efect al presiunii pe care grupul îl exercită asupra individului.
+Uneori individul este pus în situația să suporte consecințele unor acțiuni ale grupului de care el se delimitează.
+De multe ori, la baza acestor conflicte stau relații interpersonale tensionate sau conflicte individuale interioare puternice.
 
-*Conflictul inter-grupuri* – este principalul tip de conflict inclus în categoria conflictelor organizaţionale. "Stingerea" acestui tip de conflict intră deja în competenţa managerilor superiori.
+*Conflictul inter-grupuri* – este principalul tip de conflict inclus în categoria conflictelor organizaționale. "Stingerea" acestui tip de conflict intră deja în competența managerilor superiori.
 
-*Conflictul între organizaţii* – în mod frecvent acest tip de conflict se manifestă sub forma competiţiei pentru lansarea unui produs, serviciu etc. Un asemenea tip de conflict se poate naşte în urma competiţiei pentru surse de finanţare.
+*Conflictul între organizații* – în mod frecvent acest tip de conflict se manifestă sub forma competiției pentru lansarea unui produs, serviciu etc. Un asemenea tip de conflict se poate naște în urma competiției pentru surse de finanțare.
 
-*Conflictele afective* – sunt conflicte generate de stări emoţionale şi apar în cadrul relaţiilor interindividuale.
+*Conflictele afective* – sunt conflicte generate de stări emoționale și apar în cadrul relațiilor interindividuale.
 
-*Conflictele de manipulare* (pseudoconflictele) sunt în general efectul comportamentelor duplicitare şi lipsei de comunicare şi transparenţă.
-Ele apar în general între grupuri şi sunt rezultatul practicilor politicianiste.
-Spre exemplu, un pseudoconflict poate fi “lansat” atunci când două grupuri între care există interese comune ar aduce prejudicii grupului dominant în relaţia sa cu alte grupuri, dacă ar continua coabitarea.
-Pentru reuşita acestei strategii, de regulă conflictele sunt mediatizate puternic.
+*Conflictele de manipulare* (pseudoconflictele) sunt în general efectul comportamentelor duplicitare și lipsei de comunicare și transparență.
+Ele apar în general între grupuri și sunt rezultatul practicilor politicianiste.
+Spre exemplu, un pseudoconflict poate fi "lansat" atunci când două grupuri între care există interese comune ar aduce prejudicii grupului dominant în relația sa cu alte grupuri, dacă ar continua coabitarea.
+Pentru reușita acestei strategii, de regulă conflictele sunt mediatizate puternic.
+
+
+## Altruism și Egoism. Exemple
+
+*Egoismul* poate fi definit ca calitatea de a fi excesiv de îngâmfat sau egocentric.
+O persoană, care este egoistă, este de obicei lipsită de considerație față de ceilalți și se concentrează exclusiv pe sinele individual. O astfel de persoană s-ar angaja în orice activitate care îi lezează pe ceilalți și care îi aduce beneficii pentru sine.
+
+În viața unui prieten al autorului s-a întâmplat un moment când s-a manifestat egoismul.
+Prietenul a lucrat pentru o persoană, care nu i-a plătit acea suma de bani care el merita, îl înșela, lăsând aceste bani sie.
+
+Autorul a cunoscut mai multe persoane care ar folosi pe alte persoane ca să-și atingă scopurile.
+Autorul tinde să nu comunice cu așa persoane, deoarece relațiile cu ele sunt neplăcute. 
+
+
+*Altruismul* are loc atunci când o persoană pune nevoile altora înaintea sa.
+De aceea, poate fi considerat opusul egoismului.
+Un astfel de individ este atât de preocupat de ceilalți încât se ignoră complet pe sine.
+
+De exemplu, soldații sovietice în al doilea război mondial.
+Există mai multe filme este pictorat foarte bine altruismul lor:
+
+- Ei s-au dus nerăbdător la război pentru a-și proteja patria, cu toate că au știut că au șanse mari să moare în luptă și că posibil nu-și vor vedea familiile din nou.
+- Chiar copiii care nu înca au devenit adulți au dorit să-și protejeze patria atât de mult că au spus minciuni despre vârsta lor ca să fie luați în armată.
+
+
+## Absolutism și relativism. Exemple
+
+*Absolutismul* este prinvința princiilor morale ca absolute, adică care există pentru toate persoane independent de context, mereu pot fi formalizate.
+
+De exemplu, ideea că nu este permis să ucidă sau să sinucidă poate fi privită ca o morală absolută, independentă de contextul personal al persoanelor și independent în ce loc din lume sunt locuite.
+
+De exemplu, legea definește reguli absolute care trebuie să fie respectate de orice persoană, în orice moment al timpului, în orice context personal. Care legea este încălcată, persoana este mereu pedepsită corespunzător.
+
+*Relativismul* zice că aceste principii se aplică la diferite persoane și în diferite situații în măsuri diferite, sunt dependente de context.
+
+Același exemplu cu faptul că uciderea este o regulă absolută, să se imagineze un soldat care își protejează țara de intruși inamici.
+Oare este justificată opțiunea de a folosi armă împrotriva incamicului, luându-i viața, pentru a-și proteja patria?
+Relativismul zice că da.
+
+În unele țări arabe este imoral pentru femei să se ducă afară fără a-și acoperi fața cu o mască, dar în celelalte țări este normal de a umblat fără mască.
+Deci, acest lucru tot este relativ, depinde de context (țara în care femeia locuiește).
+
+
+## Să aprecieze relația dintre morală și critică
+
+
+## Critica constructivă. Exemple individuale.
+
+Critica constructivă este o modalitate utilă de a oferi feedback, oferind sugestii specifice, care pot fi puse în aplicare.
+Mai degrabă decât să ofere sfaturi generale, critica constructivă oferă recomandări specifice privind modul în care pot fi atinse îmbunătățiri pozitive.
+Critica constructivă este clară, la obiect și ușor de pus în aplicare.
+
+Critica constructivă poate face parte din implementarea strategiilor de îmbunătățire pentru a-i ajuta pe angajați să își stabilească și să își atingă obiectivele profesionale.
+De asemenea, poate crea o atmosferă pozitivă în care personalul se simte confortabil să pună întrebări, să solicite asistență și să își ofere propriul feedback și propriile idei.
+În cele din urmă, critica constructivă poate oferi modalități prin care angajații să înțeleagă mai bine așteptările angajatorului, și cum să le îndeplinească.
+
+Autorului îi place de a dat sugestii la codul programului, el este gata de a analiza implementarea unei sarcini și de a da sfaturi de soluționare din înțelegerea sau din experiența proprie.
+Autorul este gata să indice care sunt problemele codului, prin ele se manifestă, și cum pot fi mitigate.
+
+
+<!-- ## Elaborarea CV personal
+
+## Elaborarea scrisorii de recomandare din numele autorului portofoliului
+
+## Elaborarea scrisorii de motivare din numele autorului portofoliului -->
+
