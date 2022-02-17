@@ -297,6 +297,18 @@ Deci, acest lucru tot este relativ, depinde de context (țara în care femeia lo
 
 ## Să aprecieze relația dintre morală și critică
 
+Critica este analiza sau aprecierea unor opere artistice, literare, a activității sau a acțuinilor unei persoane sau a unor colective.
+Este clar că putem analiza critica din punct de vedere moral, luând în considerare scopul cu care critica este dată.
+
+*Critica constructivă* are scopul de a evidenția defectele și de a oferi sugestii și modalități de rezolvare a lor, încât autorul să poată să se îmbunătățească și să le corecteze.
+Critica constructivă trebuie să fie primită mereu prietenos, deoarece vizează îmbunătățirea calității lucrării sau a persoanei, dar nu punerea lor în derâdere. 
+
+Pe de altă parte, există *critica destructivă*.
+Acest tip de critică este de obicei ori neintenționată, ori vizează a o răni pe persoana sau a o pune în derâdere.
+Critica destructivă nu dă sugestii, ci doar indică greșelile, blamând persoana dată pentru ele. 
+
+Deci, din punct de vedere moral, critica constructivă este morală, iar cea destructivă este imorală.
+Critica constructivă ajută persoanei să se dezvolte, iar cea destructivă doar aduce suferire.
 
 ## Critica constructivă. Exemple individuale.
 
