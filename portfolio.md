@@ -260,7 +260,7 @@ Pentru reușita acestei strategii, de regulă conflictele sunt mediatizate puter
 O persoană, care este egoistă, este de obicei lipsită de considerație față de ceilalți și se concentrează exclusiv pe sinele individual. O astfel de persoană s-ar angaja în orice activitate care îi lezează pe ceilalți și care îi aduce beneficii pentru sine.
 
 În viața unui prieten al autorului s-a întâmplat un moment când s-a manifestat egoismul.
-Prietenul a lucrat pentru o persoană, care nu i-a plătit acea suma de bani care el merita, îl înșela, lăsând aceste bani sie.
+Prietenul a lucrat pentru o persoană, care nu i-a plătit acea suma de bani care el merita, îl înșela, lăsând acești bani sie.
 
 Autorul a cunoscut mai multe persoane care ar folosi pe alte persoane ca să-și atingă scopurile.
 Autorul tinde să nu comunice cu așa persoane, deoarece relațiile cu ele sunt neplăcute. 
