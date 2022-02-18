@@ -271,7 +271,7 @@ De aceea, poate fi considerat opusul egoismului.
 Un astfel de individ este atât de preocupat de ceilalți încât se ignoră complet pe sine.
 
 De exemplu, soldații sovietice în al doilea război mondial.
-Există mai multe filme in care este pictorat foarte bine altruismul lor:
+Există mai multe filme în care este pictorat foarte bine altruismul lor:
 
 - Ei s-au dus nerăbdător la război pentru a-și proteja patria, cu toate că au știut că au șanse mari să moare în luptă și că posibil nu-și vor vedea familiile din nou.
 - Chiar copiii care nu înca au devenit adulți au dorit să-și protejeze patria atât de mult că au spus minciuni despre vârsta lor ca să fie luați în armată.
